@@ -8,5 +8,10 @@
   "name": "Private Gitlab",
   "address": "https://gitlab.home.mhmdinan.com",
   "check_type": "http"
+ },
+ {
+  "name": "home.mhmdinan.com",
+  "address": "192.168.18.254:443",
+  "check_type": "ping"
  }
 ]

@@ -149,3 +149,6 @@ func saveTargets(targets []Target) {
 		fmt.Printf("Error writing to file: %v\n", err)
 	}
 }
+
+//go run main.go add "Private Gitlab" "https://gitlab.home.mhmdinan.com" "http"
+// go run main.go check
