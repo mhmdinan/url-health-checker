@@ -1,0 +1,12 @@
+[
+ {
+  "name": "Google",
+  "address": "https://google.com",
+  "check_type": "http"
+ },
+ {
+  "name": "Private Gitlab",
+  "address": "https://gitlab.home.mhmdinan.com",
+  "check_type": "http"
+ }
+]
